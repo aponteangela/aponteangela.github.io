@@ -1,6 +1,7 @@
 ## Angela Aponte
-Future Full Stack Developer
-
+Future Full Stack Developer<br>
+<DIV align="left">
+<a href="https://ibb.co/jLpvyCF"><img src="https://i.ibb.co/Bg1VyhR/Angela-Aponte-removebg-preview.png" alt="Angela-Aponte-removebg-preview" border="0"></a><br /><br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Cmz8wX5/save.png" alt="save" border="0"></a><br /></a><br />
 <br>
 
