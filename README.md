@@ -2,19 +2,27 @@
 Future Full Stack Developer<br>
 <DIV align="left">
 <a href="https://ibb.co/jLpvyCF"><img src="https://i.ibb.co/Bg1VyhR/Angela-Aponte-removebg-preview.png" alt="Angela-Aponte-removebg-preview" border="0"></a><br /><br />
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Cmz8wX5/save.png" alt="save" border="0"></a><br /></a><br />
+
+<style>
+h1 {
+   color: red;
+}
+</style>
+<body>
+  <h1> Biography <br>
+I began my undergraduate career as a mechanical engineering student attending NJIT. I had a passion for learning and building my own projects. I quickly learned that coding was my passion. My favorite project I've created using Arduino and C++ is my punch activated flamethrower. Using an accelerometer, my Arduino Pro Mini sends a signal to a solenoid valve to open and and arc lighter to activate. I am excited to embark on my journey as a Full Stack Developer.</h1>
+</body>
+  
+
+
 <br>
-
-## Biography <br>
-I began my undergraduate career as a mechanical engineering student attending NJIT. I had a passion for learning and building my own projects. I quickly learned that coding was my passion. My favorite project I've created using Arduino and C++ is my punch activated flamethrower. Using an accelerometer, my Arduino Pro Mini sends a signal to a solenoid valve to open and and arc lighter to activate. I am excited to embark on my journey as a Full Stack Developer.
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Cmz8wX5/save.png" alt="save" border="0"></a><br /></a><br />
 <br>
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
