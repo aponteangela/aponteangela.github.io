@@ -13,7 +13,7 @@ h1 {
 I began my undergraduate career as a mechanical engineering student attending NJIT. I had a passion for learning and building my own projects. I quickly learned that coding was my passion. My favorite project I've created using Arduino and C++ is my punch activated flamethrower. Using an accelerometer, my Arduino Pro Mini sends a signal to a solenoid valve to open and and arc lighter to activate. I am excited to embark on my journey as a Full Stack Developer.</h1>
 </body>
   
-
+<link rel="stylesheet" type="text/css" href="styles/style.css"/>
 
 <br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Cmz8wX5/save.png" alt="save" border="0"></a><br /></a><br />
