@@ -21,7 +21,7 @@ My name is Angela Aponte. I grew up just twenty minutes outside of New York City
    
 <DIV align="left">
    
-Languages
+   <h1>Languages <br></h1>
    
 - CSS <br>
 - HTML <br>
@@ -32,7 +32,7 @@ Languages
 - C++ <br>
 <br>
 
-Projects 
+   <h1>Projects </h1>
 <br>
    1. <a href="https://github.com/aponteangela/PacMan-Assignment">Pac-Man</a><br>
    2. <a href="https://github.com/aponteangela/Eyes-Assignment">Eye Movement</a><br>
