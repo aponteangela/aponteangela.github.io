@@ -18,23 +18,29 @@ My name is Angela Aponte. I grew up just twenty minutes outside of New York City
 <br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Cmz8wX5/save.png" alt="save" border="0"></a><br /></a><br />
 <br>
+   
 <DIV align="left">
    
 ## Languages
    
-- CSS
-- HTML
-- JAVASCRIPT
-- SWIFT
-- PYTHON
-- JAVA
-- C++
-
+- CSS <br>
+- HTML <br>
+- JAVASCRIPT <br>
+- SWIFT <br>
+- PYTHON <br>
+- JAVA <br>
+- C++ <br>
+<br>
 
 ### Projects 
+<br>
+1. PacMan <br>
+2. Eye Movement <br>
+3. Real Time Bus Tracker <br>
+   <br>
 
-1. PacMan
-2. Eye Movement
-3. Real Time Bus Tracker 
+   
+ License <br>
+   MIT x PRO Emeritus 
 
 
