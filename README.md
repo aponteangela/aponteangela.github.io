@@ -34,9 +34,9 @@ Languages
 
 Projects 
 <br>
-1. PacMan <br>
-2. Eye Movement <br>
-3. Real Time Bus Tracker <br>
+1. [PacMan](https://github.com/aponteangela/PacMan-Assignment) <br>
+2. [Eye Movement](https://github.com/aponteangela/Eyes-Assignment) <br>
+3. [Real Time Bus Tracker](https://github.com/aponteangela/Real-Time-Bus-Tracker) <br>
    <br>
 
    
