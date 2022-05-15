@@ -16,12 +16,12 @@ My name is Angela Aponte. I grew up just twenty minutes outside of New York City
 <DIV align="center">
 
 <br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Cmz8wX5/save.png" alt="save" border="0"></a><br /></a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Cmz8wX5/save.png" alt="save" border="0"></a><br /><br />
 <br>
    
 <DIV align="left">
    
-## Languages
+Languages
    
 - CSS <br>
 - HTML <br>
@@ -32,7 +32,7 @@ My name is Angela Aponte. I grew up just twenty minutes outside of New York City
 - C++ <br>
 <br>
 
-### Projects 
+Projects 
 <br>
 1. PacMan <br>
 2. Eye Movement <br>
