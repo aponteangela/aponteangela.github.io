@@ -34,9 +34,9 @@ Languages
 
 Projects 
 <br>
-   1. <a href="https://github.com/aponteangela/PacMan-Assignment">Pac-Man</a>
-   2. <a href="https://github.com/aponteangela/Eyes-Assignment">Eye Movement</a>
-   3. <a href="https://github.com/aponteangela/Real-Time-Bus-Tracker">Real Time Bus Tracker</a>
+   1. <a href="https://github.com/aponteangela/PacMan-Assignment">Pac-Man</a><br>
+   2. <a href="https://github.com/aponteangela/Eyes-Assignment">Eye Movement</a><br>
+   3. <a href="https://github.com/aponteangela/Real-Time-Bus-Tracker">Real Time Bus Tracker</a><br>
    
    <br>
    
